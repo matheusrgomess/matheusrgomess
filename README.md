@@ -1,7 +1,7 @@
 
 ### Olá! Me chamo Matheus Gomes e estou aprendendo a programar 📚
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdrgomes@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdrgomes@gmail.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEj5Ctb0jmaR61n8ZYKR_lQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusrgomes_/)
 
